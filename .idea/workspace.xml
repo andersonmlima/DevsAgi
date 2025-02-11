@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af0a2ab1-ae00-4bc0-bb9f-af07cabd308a" name="Changes" comment="" />
+    <list default="true" id="af0a2ab1-ae00-4bc0-bb9f-af07cabd308a" name="Changes" comment="exec 5 and 6." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +17,31 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="anderson.lima &lt;andersonmlima2@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "andersonmlima"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/andersonmlima/DevsAgi.git",
+    "accountId": "8f75ef5b-849c-418e-9caf-710ebbf439ec"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2sDTPKnK7YYhd0JjkLFDI15AEFR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="flattenModules" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -47,6 +68,7 @@
     "Application.e7.executor": "Run",
     "Application.e8.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/anderson.lima/IdeaProjects/DevsAgi/src/Main.java",
     "project.structure.last.edited": "Modules",
@@ -60,13 +82,13 @@
       <recent name="com.agibank.estruturasCondicionais" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.agibank.metodo.e4.Main">
-    <configuration name="com.agibank.maratona2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.agibank.maratona2.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.agibank.metodo.e5.Main" />
       <module name="DevsAgi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.agibank.maratona2.*" />
+          <option name="PATTERN" value="com.agibank.metodo.e5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.com.agibank.metodo.e4.Main" />
         <item itemvalue="Application.com.agibank.metodo.e3.Main" />
         <item itemvalue="Application.com.agibank.metodo.e2.Main" />
         <item itemvalue="Application.com.agibank.metodo.e1.Main" />
-        <item itemvalue="Application.com.agibank.maratona2.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -145,6 +167,38 @@
       <option name="presentableId" value="Default" />
       <updated>1737989133927</updated>
     </task>
+    <task id="LOCAL-00001" summary="exec 5 and 6.">
+      <option name="closed" value="true" />
+      <created>1739285503535</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739285503535</updated>
+    </task>
+    <task id="LOCAL-00002" summary="exec 5 and 6.">
+      <option name="closed" value="true" />
+      <created>1739285525435</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739285525435</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="exec 5 and 6." />
+    <option name="LAST_COMMIT_MESSAGE" value="exec 5 and 6." />
   </component>
 </project>
