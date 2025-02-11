@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af0a2ab1-ae00-4bc0-bb9f-af07cabd308a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2sDTPKnK7YYhd0JjkLFDI15AEFR" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.com.agibank.maratona2.Main.executor": "Run",
+    "Application.com.agibank.matrizes.e1.Main.executor": "Run",
+    "Application.com.agibank.matrizes.e2.Main.executor": "Run",
+    "Application.com.agibank.metodo.e1.Main.executor": "Run",
+    "Application.com.agibank.metodo.e2.Main.executor": "Run",
+    "Application.com.agibank.metodo.e3.Main.executor": "Run",
+    "Application.com.agibank.metodo.e4.Main.executor": "Run",
+    "Application.com.agibank.vetores.Main.executor": "Run",
+    "Application.com.agibank.vetores.e1.Main.executor": "Run",
+    "Application.com.agibank.vetores.e2.Main.executor": "Run",
+    "Application.com.agibank.vetores.e3.Main.executor": "Run",
+    "Application.e1.executor": "Run",
+    "Application.e2.executor": "Run",
+    "Application.e3.executor": "Run",
+    "Application.e4.executor": "Run",
+    "Application.e7.executor": "Run",
+    "Application.e8.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/anderson.lima/IdeaProjects/DevsAgi/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.agibank.estruturasCondicionais" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.com.agibank.metodo.e4.Main">
+    <configuration name="com.agibank.maratona2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.agibank.maratona2.Main" />
+      <module name="DevsAgi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.agibank.maratona2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.agibank.metodo.e1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.agibank.metodo.e1.Main" />
+      <module name="DevsAgi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.agibank.metodo.e1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.agibank.metodo.e2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.agibank.metodo.e2.Main" />
+      <module name="DevsAgi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.agibank.metodo.e2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.agibank.metodo.e3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.agibank.metodo.e3.Main" />
+      <module name="DevsAgi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.agibank.metodo.e3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.agibank.metodo.e4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.agibank.metodo.e4.Main" />
+      <module name="DevsAgi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.agibank.metodo.e4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.agibank.metodo.e4.Main" />
+        <item itemvalue="Application.com.agibank.metodo.e3.Main" />
+        <item itemvalue="Application.com.agibank.metodo.e2.Main" />
+        <item itemvalue="Application.com.agibank.metodo.e1.Main" />
+        <item itemvalue="Application.com.agibank.maratona2.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af0a2ab1-ae00-4bc0-bb9f-af07cabd308a" name="Changes" comment="" />
+      <created>1737989133927</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737989133927</updated>
+    </task>
+    <servers />
+  </component>
+</project>
