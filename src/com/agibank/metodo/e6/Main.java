@@ -6,18 +6,25 @@ public class Main {
         double volatilidade = calcularVolatilidade(retornos);
         System.out.println("Volatilidade: " + volatilidade);
     }
-    public static double calcularVolatilidade(double[] retornos){
+
+    public static double calcularVolatilidade(double[] retornos) {
         double soma = 0;
-        for (int i = 0; i < retornos.length; i++){
-            soma += retornos[i];
-        }
         double somaQuadrado = 0;
-        double media = soma / retornos.length;
-        for (int j = i + 1; j < retornos.length; j++){
-            somaQuadrado += Math.pow(retornos[i] - media, 2);
+        for (int i = 0; i < retornos.length; i++) {
+            soma += retornos[i];
+            somaQuadrado += Math.pow(retornos[i] - calcularMedia(retornos), 2);
         }
         double variancia = somaQuadrado / retornos.length;
-        double desvioPadrao = media * variancia;
+        double desvioPadrao = Math.sqrt(variancia);
         return desvioPadrao;
+    }
+
+    public static double calcularMedia(double[] mediaVolatilidade) {
+        double soma = 0;
+        for (int i = 0; i < mediaVolatilidade.length; i++) {
+            soma += mediaVolatilidade[i];
+        }
+        double media = soma / mediaVolatilidade.length;
+        return media;
     }
 }
