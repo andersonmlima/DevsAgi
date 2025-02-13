@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af0a2ab1-ae00-4bc0-bb9f-af07cabd308a" name="Changes" comment="exec 5 and 6.">
-      <change afterPath="$PROJECT_DIR$/src/com/agibank/debugAula/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/agibank/excecao/e1/Main.java" afterDir="false" />
+    <list default="true" id="af0a2ab1-ae00-4bc0-bb9f-af07cabd308a" name="Changes" comment="debug parte 1">
+      <change afterPath="$PROJECT_DIR$/src/com/agibank/debugAula/e1/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/agibank/debugAula/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +45,9 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2sDTPKnK7YYhd0JjkLFDI15AEFR" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="flattenModules" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -54,6 +56,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.com.agibank.debugAula.Main.executor": "Run",
     "Application.com.agibank.excecao.e1.Main.executor": "Run",
     "Application.com.agibank.maratona2.Main.executor": "Run",
     "Application.com.agibank.matrizes.e1.Main.executor": "Run",
@@ -88,7 +91,7 @@
       <recent name="com.agibank.estruturasCondicionais" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.agibank.excecao.e1.Main">
+  <component name="RunManager" selected="Application.com.agibank.debugAula.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.agibank.metodo.e5.Main" />
       <module name="DevsAgi" />
@@ -102,12 +105,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.agibank.excecao.e1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.agibank.excecao.e1.Main" />
+    <configuration name="com.agibank.debugAula.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.agibank.debugAula.Main" />
       <module name="DevsAgi" />
+      <option name="PROGRAM_PARAMETERS" value="1 2 3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.agibank.excecao.e1.*" />
+          <option name="PATTERN" value="com.agibank.debugAula.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.agibank.metodo.e3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.agibank.metodo.e3.Main" />
+    <configuration name="com.agibank.excecao.e1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.agibank.excecao.e1.Main" />
       <module name="DevsAgi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.agibank.metodo.e3.*" />
+          <option name="PATTERN" value="com.agibank.excecao.e1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.agibank.debugAula.Main" />
         <item itemvalue="Application.com.agibank.excecao.e1.Main" />
         <item itemvalue="Application.com.agibank.metodo.e6.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.com.agibank.metodo.e4.Main" />
-        <item itemvalue="Application.com.agibank.metodo.e3.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739285525435</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="debug parte 1">
+      <option name="closed" value="true" />
+      <created>1739450514808</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739450514808</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -205,6 +217,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="exec 5 and 6." />
-    <option name="LAST_COMMIT_MESSAGE" value="exec 5 and 6." />
+    <MESSAGE value="debug parte 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="debug parte 1" />
   </component>
 </project>
