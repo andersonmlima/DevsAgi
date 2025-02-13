@@ -5,18 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af0a2ab1-ae00-4bc0-bb9f-af07cabd308a" name="Changes" comment="exec 5 and 6.">
-      <change afterPath="$PROJECT_DIR$/src/com/agibank/maratona3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/agibank/debugAula/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/agibank/excecao/e1/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/agibank/estruturasCondicionais/atividadeForWhile/e1/e1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/agibank/lacoDeRepeticao/atividadeForWhile/e1/e1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/agibank/estruturasCondicionais/atividadeForWhile/e2/e2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/agibank/lacoDeRepeticao/atividadeForWhile/e2/e2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/agibank/estruturasCondicionais/atividadeForWhile/e3/e3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/agibank/lacoDeRepeticao/atividadeForWhile/e3/e3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/agibank/estruturasCondicionais/atividadeForWhile/e4/e4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/agibank/lacoDeRepeticao/atividadeForWhile/e4/e4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/agibank/estruturasCondicionais/atividadeForWhile/e5/e5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/agibank/lacoDeRepeticao/atividadeForWhile/e5/e5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/agibank/estruturasCondicionais/atividadeForWhile/e7/e7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/agibank/lacoDeRepeticao/atividadeForWhile/e7/e7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/agibank/estruturasCondicionais/atividadeForWhile/e8/e8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/agibank/lacoDeRepeticao/atividadeForWhile/e8/e8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/agibank/maratona/maratona2/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/agibank/maratona2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/agibank/maratona2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/agibank/teste/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/agibank/teste/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +38,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/andersonmlima/DevsAgi.git&quot;,
-    &quot;accountId&quot;: &quot;471eb409-a12f-4957-bf5a-d6a79125160d&quot;
+    &quot;accountId&quot;: &quot;8f75ef5b-849c-418e-9caf-710ebbf439ec&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -63,6 +54,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.com.agibank.excecao.e1.Main.executor": "Run",
     "Application.com.agibank.maratona2.Main.executor": "Run",
     "Application.com.agibank.matrizes.e1.Main.executor": "Run",
     "Application.com.agibank.matrizes.e2.Main.executor": "Run",
@@ -71,7 +63,6 @@
     "Application.com.agibank.metodo.e3.Main.executor": "Run",
     "Application.com.agibank.metodo.e4.Main.executor": "Run",
     "Application.com.agibank.metodo.e6.Main.executor": "Run",
-    "Application.com.agibank.teste.Main.executor": "Run",
     "Application.com.agibank.vetores.Main.executor": "Run",
     "Application.com.agibank.vetores.e1.Main.executor": "Run",
     "Application.com.agibank.vetores.e2.Main.executor": "Run",
@@ -83,21 +74,13 @@
     "Application.e7.executor": "Run",
     "Application.e8.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/anderson.lima/IdeaProjects/DevsAgi/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -105,13 +88,26 @@
       <recent name="com.agibank.estruturasCondicionais" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.agibank.teste.Main">
+  <component name="RunManager" selected="Application.com.agibank.excecao.e1.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.agibank.metodo.e5.Main" />
       <module name="DevsAgi" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.agibank.metodo.e5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.agibank.excecao.e1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.agibank.excecao.e1.Main" />
+      <module name="DevsAgi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.agibank.excecao.e1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,36 +154,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.agibank.teste.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.agibank.teste.Main" />
-      <module name="DevsAgi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.agibank.teste.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.agibank.teste.Main" />
+        <item itemvalue="Application.com.agibank.excecao.e1.Main" />
         <item itemvalue="Application.com.agibank.metodo.e6.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.com.agibank.metodo.e4.Main" />
         <item itemvalue="Application.com.agibank.metodo.e3.Main" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.189" />
-        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.189" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -197,7 +172,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737989133927</updated>
-      <workItem from="1739303985367" duration="5316000" />
     </task>
     <task id="LOCAL-00001" summary="exec 5 and 6.">
       <option name="closed" value="true" />
@@ -217,9 +191,6 @@
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
