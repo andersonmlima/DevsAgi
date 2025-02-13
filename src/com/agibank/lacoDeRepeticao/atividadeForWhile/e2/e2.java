@@ -1,4 +1,4 @@
-package com.agibank.estruturasCondicionais.atividadeForWhile.e2;
+package com.agibank.lacoDeRepeticao.atividadeForWhile.e2;
 
 import java.util.Scanner;
 
